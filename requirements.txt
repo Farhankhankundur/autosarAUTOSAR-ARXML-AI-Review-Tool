@@ -1,9 +1,5 @@
-streamlit==1.26.0
-xmltodict==0.13.0
-transformers==4.30.0
-torch==2.2.0
-psutil==5.9.5
-tokenizers==0.13.3  # Use a version with pre-built wheels
-pillow==9.5.0       # Compatible with streamlit==1.26.0
-numpy==1.26.4       # Required by streamlit
-pandas==2.2.3       # Required by streamlit
+streamlit
+transformers
+torch
+xmltodict
+psutil
