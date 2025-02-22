@@ -1,0 +1,5 @@
+streamlit==1.26.0
+xmltodict==0.13.0
+transformers==4.30.0
+torch==2.0.1
+psutil==5.9.5
