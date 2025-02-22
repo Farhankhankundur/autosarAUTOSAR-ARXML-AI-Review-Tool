@@ -3,3 +3,5 @@ xmltodict==0.13.0
 transformers==4.30.0
 torch>=2.2.0
 psutil==5.9.5
+pillow>=10.0.0  # Ensure a version with pre-built wheels
+tokenizers>=0.13.0  # Ensure a version with pre-built wheels
