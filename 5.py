@@ -5,7 +5,7 @@ import google.generativeai as genai
 import os
 
 # Set Gemini API Key
-os.environ["GEMINI_API_KEY"] = "AIzaSyDkj71Y6Vje3uNRwQOewILhRwHzXgfubLM"
+os.environ["GEMINI_API_KEY"] = ""
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 # Custom CSS for Full-Screen Sections
